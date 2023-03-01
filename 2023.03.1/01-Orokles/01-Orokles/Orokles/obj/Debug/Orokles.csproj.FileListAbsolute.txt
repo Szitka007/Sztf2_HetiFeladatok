@@ -1,0 +1,8 @@
+C:\Users\hallgato\Documents\2023.03.1\01-Orokles\01-Orokles\Orokles\bin\Debug\Orokles.exe.config
+C:\Users\hallgato\Documents\2023.03.1\01-Orokles\01-Orokles\Orokles\bin\Debug\Orokles.exe
+C:\Users\hallgato\Documents\2023.03.1\01-Orokles\01-Orokles\Orokles\bin\Debug\Orokles.pdb
+C:\Users\hallgato\Documents\2023.03.1\01-Orokles\01-Orokles\Orokles\obj\Debug\Orokles.csproj.AssemblyReference.cache
+C:\Users\hallgato\Documents\2023.03.1\01-Orokles\01-Orokles\Orokles\obj\Debug\Orokles.csproj.SuggestedBindingRedirects.cache
+C:\Users\hallgato\Documents\2023.03.1\01-Orokles\01-Orokles\Orokles\obj\Debug\Orokles.csproj.CoreCompileInputs.cache
+C:\Users\hallgato\Documents\2023.03.1\01-Orokles\01-Orokles\Orokles\obj\Debug\Orokles.exe
+C:\Users\hallgato\Documents\2023.03.1\01-Orokles\01-Orokles\Orokles\obj\Debug\Orokles.pdb
