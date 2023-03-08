@@ -1,0 +1,8 @@
+C:\Users\hallgato\Documents\HF\REPO\2023.03.08\Interfesz\Interfesz\bin\Debug\Interfesz.exe.config
+C:\Users\hallgato\Documents\HF\REPO\2023.03.08\Interfesz\Interfesz\bin\Debug\Interfesz.exe
+C:\Users\hallgato\Documents\HF\REPO\2023.03.08\Interfesz\Interfesz\bin\Debug\Interfesz.pdb
+C:\Users\hallgato\Documents\HF\REPO\2023.03.08\Interfesz\Interfesz\obj\Debug\Interfesz.csproj.AssemblyReference.cache
+C:\Users\hallgato\Documents\HF\REPO\2023.03.08\Interfesz\Interfesz\obj\Debug\Interfesz.csproj.SuggestedBindingRedirects.cache
+C:\Users\hallgato\Documents\HF\REPO\2023.03.08\Interfesz\Interfesz\obj\Debug\Interfesz.csproj.CoreCompileInputs.cache
+C:\Users\hallgato\Documents\HF\REPO\2023.03.08\Interfesz\Interfesz\obj\Debug\Interfesz.exe
+C:\Users\hallgato\Documents\HF\REPO\2023.03.08\Interfesz\Interfesz\obj\Debug\Interfesz.pdb
